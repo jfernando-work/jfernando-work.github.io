@@ -43,12 +43,10 @@ permalink: /:year/:month/:day/:title/
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: justinfernando@gmail.com
-  facebook:
-  github: https://github.com/jfernando-work
-  instagram: andrewhwanpark
-  linkedin: andrewhwanpark
+  github: /jfernando-work
+  linkedin: justin-f-b92622a
   rss: # just type anything here for a working RSS icon
-  twitter: andrewhwanpark
+  
 
 plugins:
   - jekyll-seo-tag
