@@ -27,3 +27,6 @@ permalink: /about/
 ### Contact Me
 
 [justinfernando@gmail.com](mailto:justinfernando@gmail.com)
+
+### Find Me On LinkedIn
+[LinkedIn](https://www.linkedin.com/in/justin-f-b92622a/)
