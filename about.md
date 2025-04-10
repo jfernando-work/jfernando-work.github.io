@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Data analyst with a decade of experience preparing, exploring, and interpreting data. I've supplied business leaders with insights to execute ad campaigns, drive efficiency, and make informed decisions. I've collaborated with teams of analysts, account executives, and marketing / media strategists.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[justinfernando@gmail.com](mailto:justinfernando@gmail.com)
