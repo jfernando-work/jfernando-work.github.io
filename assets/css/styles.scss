@@ -9,3 +9,21 @@
   .page-title {
     color: #7c81f2;
   }
+
+  a {
+    color: #d6f511; 
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #d6f511;
+    text-decoration: underline;
+  }
+  
+  a:visited {
+    color: #d6f511;
+  }
+  
+  a:active {
+    color: #d6f511;
+  }
