@@ -30,4 +30,4 @@ LocationWiz** is a fun and educational web-based game that uses **Google Maps St
 
 This project focuses on cleaning and preparing raw transactional data from a cafe using **SQL**. The dataset includes item purchases (e.g., coffee, cake, cookies, salad), with associated details such as quantity, pricing, location, and payment method.  
 
-![Cafe Sales - Data Cleaning with SQL]({{site.baseurl}}/assets/images/sample_portfolio/LocationWiz.jpg)
+![Cafe Sales - Data Cleaning with SQL]({{site.baseurl}}/assets/images/sample_portfolio/cafe.jpg)
