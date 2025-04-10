@@ -6,8 +6,9 @@ permalink: /portfolio/
 
 <br>
 
+####
 <a href="/assets/docs/FurnitureSales_Dashboard.xlsx">
-    #### Furniture Store Sales - Excel Dashboard
+    Furniture Store Sales - Excel Dashboard
 </a>
 
 An interactive Excel dashboard that provides insights into sales trends, customer behavior, and product performance. Ideal for store managers, sales teams, and analysts looking to monitor and understand business performance at a glance.
