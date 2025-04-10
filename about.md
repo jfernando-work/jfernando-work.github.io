@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![about me]({{site.baseurl}}/assets/images/aboutme.jpg)
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <img src="{{site.baseurl}}/assets/images/aboutme.jpg" alt="about me" style="max-width: 100%; height: auto;">
@@ -22,9 +20,11 @@ permalink: /about/
   </div>
 </div>
 
+<br><br><br><br>
+
 ### Download My Resume
 
-[Download my resume (PDF)]({{ site.baseurl }}/assets/docs/JustinFernando-Resume.pdf)
+[Justin Fernando - Resume (PDF)]({{ site.baseurl }}/assets/docs/JustinFernando-Resume.pdf)
 
 ### Contact Me
 
