@@ -5,10 +5,7 @@
 @import "syntax-highlighting";
 @import "main";
 
-h1, .h1 {
-    color: #07fac9; /* dark gray */
-  }
-  
-h2, .h2 {
-    color: #007bff; /* Bootstrap primary blue */
+
+  .page-title {
+    color: #07fac9; /* or any color you want */
   }
