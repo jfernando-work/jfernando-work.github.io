@@ -1,4 +1,4 @@
-- name: Home
-  link: /portfolio/
+- name: Portfolio
+  link: /
 - name: About
   link: /about/
