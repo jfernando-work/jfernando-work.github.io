@@ -25,7 +25,7 @@ A Tableau dashboard designed to explore and analyze Airbnb listings across Lisbo
 </a>
 <br><br><br><br>
 
-#### [Location Wiz, an online geography game]("https://locationwiz.justinfernando.org")
+#### [Location Wiz, an online geography game](https://locationwiz.justinfernando.org)
 
 Location Wiz is a fun and educational online game that uses Google Maps Streetview to test your geography skills. Explore cities around the world and see if you can guess where you are!
 
