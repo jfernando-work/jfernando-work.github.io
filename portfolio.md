@@ -4,7 +4,7 @@ title: Portfolio Projects
 permalink: /portfolio/
 ---
 
-<br><br>
+<br>
 
 #### Furniture Store Sales - Excel Dashboard
 
