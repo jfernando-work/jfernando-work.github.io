@@ -4,3 +4,11 @@
 @import "bootstrap-dark";
 @import "syntax-highlighting";
 @import "main";
+
+h1, .h1 {
+    color: #1a1a1a; /* dark gray */
+  }
+  
+h2, .h2 {
+    color: #007bff; /* Bootstrap primary blue */
+  }
