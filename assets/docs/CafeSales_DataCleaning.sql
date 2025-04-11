@@ -42,7 +42,7 @@ SET
     "PaymentMethod_Cleaned" = 
         CASE 
             WHEN "Payment Method" IN ('ERROR', 'UNKNOWN') THEN NULL
-            ELSE CAST("Payment Method" AS NUMERIC)
+            ELSE "Payment Method"
         END,
     
     "Location_Cleaned" = 
@@ -54,7 +54,7 @@ SET
     "TransactionDate_Cleaned" =
         CASE 
             WHEN "Transaction Date" IN ('ERROR', 'UNKNOWN') THEN NULL
-            ELSE CAST("Transaction Date" AS NUMERIC)
+            ELSE CAST("Transaction Date" AS DATE)
         END;
 
 
