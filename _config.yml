@@ -18,7 +18,7 @@ darkavatar: /assets/images/eyes_logo.png
 tagline: data analyst project portfolio
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: data analyst project portfolio LONGER
+description: data analyst project portfolio
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: https://jfernando-work.github.io/
@@ -43,7 +43,7 @@ permalink: /:year/:month/:day/:title/
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: justinfernando@gmail.com
-  github: /jfernando-work
+  github: jfernando-work
   linkedin: justin-f-b92622a
   rss: # just type anything here for a working RSS icon
   
