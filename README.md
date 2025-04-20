@@ -8,7 +8,7 @@ This portfolio is a blend of my analytical work and creative mindset. Thanks for
 
 ## Website
 
-👉 [justinfernando.ord](https://justinfernando.org)
+👉 [justinfernando.org](https://justinfernando.org)
 
 ## List of Projects
 
