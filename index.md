@@ -24,6 +24,15 @@ This project focuses on cleaning and preparing raw transactional data from a caf
 </a>
 <br><br><br><br>
 
+#### [GCScraper - Web Scraping with Python](https://github.com/jfernando-work/GCScraper)
+
+A Python-based web scraper that collects product listings from a popular musical instrument retailer's website. It allows users to interactively select a product category and the number of pages to scrape, then outputs detailed product information to a CSV file.
+
+<a href="https://github.com/jfernando-work/GCScraper">
+![GCScraper - Web Scraping with Python]({{site.baseurl}}/assets/images/sample_portfolio/GCScraper.jpg)
+</a>
+<br><br><br><br>
+
 #### [Airbnb Listings in Lisbon - Tableau Dashboard](/assets/docs/LisbonAirbnbListings_FINAL.twbx)
 
 A Tableau dashboard designed to explore and analyze Airbnb listings across Lisbon, Portugal. Whether you're a traveler, host, or analyst, this dashboard offers insights into pricing, customer satisfaction, and neighborhood trends.
